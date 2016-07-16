@@ -38,3 +38,6 @@ jspm_packages
 
 #typings
 typings
+
+#build files, no need
+dist
